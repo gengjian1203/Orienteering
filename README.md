@@ -7,7 +7,7 @@ OS:
 Ubuntu 14.04 x64
 
 Compiler: 
-Qt Creator 3.0.1、QT5.2.1
+gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04)
 
 Language:
 C++
@@ -15,6 +15,7 @@ C++
 KeyWord： 
 1)AStar
 2)Floyd
+3)Makefile
 
 Function: 
 Will example1.txt file in of information read out, '#' as obstacles, '.'for the feasible region, 
